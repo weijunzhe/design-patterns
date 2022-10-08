@@ -1,6 +1,5 @@
 package com.weijunzhe.factory.abs;
 
-import com.sun.org.apache.regexp.internal.RE;
 import com.weijunzhe.factory.Shape;
 
 /**

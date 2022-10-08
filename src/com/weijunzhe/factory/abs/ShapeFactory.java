@@ -1,11 +1,9 @@
 package com.weijunzhe.factory.abs;
 
-import com.sun.org.apache.regexp.internal.RE;
 import com.weijunzhe.factory.Circle;
 import com.weijunzhe.factory.Rectangle;
 import com.weijunzhe.factory.Shape;
 import com.weijunzhe.factory.Square;
-import sun.security.provider.SHA;
 
 /**
  * <h3>design-patterns</h3>
