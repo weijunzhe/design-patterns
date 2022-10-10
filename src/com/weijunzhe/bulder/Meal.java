@@ -28,7 +28,7 @@ public class Meal {
      * @return 金额
      */
     public float getCost() {
-        return (float) itemList.stream().mapToDouble(Item::price).sum();
+        return (float) itemList.parallelStream().mapToDouble(Item::price).sum();
     }
 
     /**
